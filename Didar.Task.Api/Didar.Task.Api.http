@@ -1,0 +1,6 @@
+@Didar.Task.Api_HostAddress = http://localhost:5241
+
+GET {{Didar.Task.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

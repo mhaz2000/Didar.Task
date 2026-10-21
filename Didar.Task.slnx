@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Didar.Task.Api/Didar.Task.Api.csproj" />
+  <Project Path="Didar.Task.Application/Didar.Task.Application.csproj" />
+  <Project Path="Didar.Task.Domain/Didar.Task.Domain.csproj" />
+  <Project Path="Didar.Task.Infrastructure/Didar.Task.Infrastructure.csproj" />
+  <Project Path="Didar.Task.IntegrationTests/Didar.Task.IntegrationTests.csproj" />
+</Solution>
